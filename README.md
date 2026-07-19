@@ -22,6 +22,13 @@ Build a regression model that can estimate a used car's selling price based on f
 | Linear Regression | 0.818 | 1.142 | 1.698 |
 | Random Forest | 0.922 | 0.636 | 1.115 |
 
+## Actual vs Predicted
+
+![Actual vs Predicted](actual_vs_predicted.png)
+
+## Feature Importance
+
+![Feature Importance](feature_importance.png)
 ## Final Model
 
 Random Forest Regressor
